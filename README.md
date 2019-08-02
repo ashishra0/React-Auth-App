@@ -2,10 +2,9 @@
 
 > *App made for the purpose of testing a [rails api](https://github.com/ashishra0/rails-api)*
 
-> *The app was generated using [devcamp-js-builder](https://www.npmjs.com/package/devcamp-js-builder)*
+*The app was generated using [devcamp-js-builder](https://www.npmjs.com/package/devcamp-js-builder)*
 
-<h6>Do check it out, it's cool</h6> :sunglasses:
----
+<h5>Do check it out, it's cool</h5> :sunglasses:
 
 This app connects to authentication endpoints of a rails api.
 
