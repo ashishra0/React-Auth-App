@@ -4,7 +4,7 @@
 
 *The app was generated using [devcamp-js-builder](https://www.npmjs.com/package/devcamp-js-builder)*
 
-<h5>Do check it out, it's cool</h5> :sunglasses:
+<h5>Do check it out, it's cool</h5>
 
 This app connects to authentication endpoints of a rails api.
 
