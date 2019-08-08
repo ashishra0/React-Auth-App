@@ -13,3 +13,9 @@ This app connects to authentication endpoints of a rails api.
 * Do a ``` npm install ```
 * Do ``` npm run start ``` and open the browser and locate to whichever ``` localhost:PORT ``` it is running.
 ___
+
+### Update (08/08/2019)
+> Wrote a new [API](https://github.com/ashishra0/musicstore-api-with-go) in Go.
+
+* Navigate to ``` localhost:3000/albums ``` 
+* Enjoy :laughing:
